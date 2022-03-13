@@ -47,4 +47,5 @@ Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat 
 ```
 <br>
 *Hasil setelah saya tambahkan paragraf*<br>
+
 ![gambar kedua](image/hasiltambahparagraf.PNG) <br>
