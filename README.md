@@ -21,6 +21,12 @@ Langkah pertama untuk memnuhi tugas ini adalah membuat file baru dengan nama : l
 </html>
 ```
 
-* Berikut hasil source code : <br>
+*Berikut untuk hasil source code :* <br>
 
 ![bebas](image/taghtmldasar.PNG) <br>
+
+**Membuat paragraf**
+1. Paragraf pertama
+pada paragraf pertama saya akan menambahkan sebuah kalimat :
+Kami sedang belajar HTML dasar, pada matakuliah Pemrograman Web di Prodi
+Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.
