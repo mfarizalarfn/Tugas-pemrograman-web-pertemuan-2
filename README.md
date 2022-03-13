@@ -22,4 +22,5 @@ Langkah pertama untuk memnuhi tugas ini adalah membuat file baru dengan nama : l
 ```
 
 * Berikut hasil source code : <br>
-![tag HTML dasar](image/tag html dasar.PNG)<br>
+
+![test](image/tag html dasar.PNG)<br>
