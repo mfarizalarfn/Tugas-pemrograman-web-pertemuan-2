@@ -58,3 +58,5 @@ tag dasar html.<br>
 
 ![gambar kedua](image/hasiltambahparagraf.PNG) <br>
 
+-**Membuat perataan paragraf**
+
