@@ -20,7 +20,7 @@ Langkah pertama untuk memnuhi tugas ini adalah membuat file baru dengan nama : l
 </body>
 </html>
 ```
-
+<br>
 *Berikut untuk hasil source code :* <br>
 
 ![gambar pertama](image/taghtmldasar.PNG) <br>
@@ -45,5 +45,6 @@ Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat 
 </body>
 </html>
 ```
-*Hasil setelah saya tambahkan paragraf*<br><br>
+<br>
+*Hasil setelah saya tambahkan paragraf*<br>
 ![gambar kedua](image/hasiltambahparagraf.PNG) <br>
