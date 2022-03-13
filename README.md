@@ -1,6 +1,6 @@
-# Tugas-pemrograman-web-pertemuan-2
+# Tugas pemrograman web pertemuan-2
 
-Repository ini dibuat untuk memenuhi tugas pemrograman web pertemuan 2
+**Repository ini dibuat untuk memenuhi tugas pemrograman web pertemuan 2**
 
 Nama      : Mohamad Farizal Arifin
 
@@ -47,6 +47,7 @@ tag dasar html.<br>
     <p>Kami sedang belajar HTML dasar, pada matakuliah Pemrograman Web di Prodi 
     Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat
     adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.</p>
+    
     <p>Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling
     mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan
     tag dasar html.</p>
@@ -61,7 +62,7 @@ tag dasar html.<br>
 
 **Merubah perataan paragraf**
 <br>
-Setelah membuat paragraf selanjut saya akan mengatur atau merubah pertaan untuk paragraf tersebut :<br>
+Setelah membuat paragraf selanjutnya saya akan mengatur atau merubah pertaan untuk paragraf tersebut :<br>
 
 *Berikut source code :*<br>
 ```
@@ -74,6 +75,7 @@ Setelah membuat paragraf selanjut saya akan mengatur atau merubah pertaan untuk 
     <p align="center">Kami sedang belajar HTML dasar, pada matakuliah Pemrograman Web di Prodi 
     Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat
     adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.</p>
+
     <p align="center">Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling
     mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan
     tag dasar html.</p>
