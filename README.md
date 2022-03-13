@@ -26,7 +26,7 @@ Langkah pertama untuk memnuhi tugas ini adalah membuat file baru dengan nama : l
 
 ![gambar pertama](image/taghtmldasar.PNG) <br>
 
-**1. Membuat paragraf**
+**1. Membuat paragraf**<br>
 Pada paragraf saya akan menambahkan sebuah kalimat :<br>
 Kami sedang belajar HTML dasar, pada matakuliah Pemrograman Web di Prodi
 Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.<br>
@@ -45,7 +45,10 @@ tag dasar html.<br>
 <body>
     <p>Kami sedang belajar HTML dasar, pada matakuliah Pemrograman Web di Prodi 
     Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat
-    adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.</p>  
+    adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.</p>
+    <p>Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling
+    mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan
+    tag dasar html.</p>
 </body>
 </html>
 ```
