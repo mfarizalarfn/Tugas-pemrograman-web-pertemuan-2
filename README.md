@@ -21,5 +21,5 @@ Langkah pertama untuk memnuhi tugas ini adalah membuat file baru dengan nama : l
 </html>
 ```
 
-* Berikut hasil source code :
+* Berikut hasil source code : <br>
 ![tag HTML dasar](image/tag html dasar.PNG)<br>
