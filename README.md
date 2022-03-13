@@ -26,7 +26,7 @@ Langkah pertama untuk memnuhi tugas ini adalah membuat file baru dengan nama : l
 ![bebas](image/taghtmldasar.PNG) <br>
 
 **Membuat paragraf**
-1. Paragraf pertama
-pada paragraf pertama saya akan menambahkan sebuah kalimat :
+1. Paragraf pertama <br>
+Pada paragraf pertama saya akan menambahkan sebuah kalimat :
 Kami sedang belajar HTML dasar, pada matakuliah Pemrograman Web di Prodi
-Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.
+Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.<br>
