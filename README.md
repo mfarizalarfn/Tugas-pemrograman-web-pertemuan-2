@@ -23,4 +23,4 @@ Langkah pertama untuk memnuhi tugas ini adalah membuat file baru dengan nama : l
 
 * Berikut hasil source code : <br>
 
-![bebas](image/taghtmldasar.png) <br>
+![bebas](image/taghtmldasar.PNG) <br>
