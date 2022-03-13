@@ -45,5 +45,5 @@ Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat 
 </body>
 </html>
 ```
-*Berikut hasilnya setelah saya tambahkan paragraf*<br>
+*Hasil setelah saya tambahkan paragraf*<br><br>
 ![gambar kedua](image/hasiltambahparagraf.PNG) <br>
