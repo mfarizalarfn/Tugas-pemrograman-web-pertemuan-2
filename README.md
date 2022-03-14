@@ -163,3 +163,5 @@ Setelah membuat paragraf selanjutnya saya akan mengatur atau merubah pertaan unt
 ```
 <br>
 
+*Berikut hasil source code setelah menambahkan gambar :*<br>
+![gambar keenam](image/tambahgambar.PNG) <br>
