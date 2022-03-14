@@ -110,3 +110,26 @@ Setelah membuat paragraf selanjutnya saya akan mengatur atau merubah pertaan unt
 ```
 *Berikut hasil source code setelah menambahkan heading :*<br>
 ![gambar keempat](image/tambahheading.PNG) <br>
+<br>
+
+**3. Memformat teks paragraf**
+<br>
+
+*Berikut source code :*<br>
+```
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tag HTML Dasar</title>
+    </head>
+<body>
+    <h1>Belajar Dasar HTML</h1>
+        <p align="justify">Kami sedang belajar <font style="background-color: yellow;">HTML dasar</font>, pada matakuliah <b>Pemrograman Web</b> di Prodi <i>Teknik Informatika</i> <u>Universitas Pelita Bangsa</u>. Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.</p>
+    <hr>
+    <h2>Paragraf pada HTML</h2>
+        <p align="left">Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling mendukung sehingga menjadi <b>satu kesatuan.</b> <font style="background-color: aqua;">Paragraf dibuat dengan menggunakan tag dasar html.</font></p>
+</body>
+</html>
+```
+*Berikut hasil source code setelah memformat teks :*<br>
+![gambar kelima](image/memformatteks.PNG) <br>
