@@ -204,10 +204,23 @@ Setelah membuat paragraf selanjutnya saya akan mengatur atau merubah pertaan unt
 <br>
 <br>
 
-**Jawab pertanyaan berikut :**<br>
+**Jawablah pertanyaan berikut :**<br>
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?<br>
 2. Apa perbedaan dari tag \<p> dengan tag \<br>, berikan penjelasannya!<br>
 3. Apa perbedaan atribut title dan alt pada tag \<img>, berikan penjelasannya!<br>
 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!<br>
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,
 _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?<br>
+
+**Jawab :**<br>
+1. Beberapa perubahan tidak muncul / tampil pada web browser.<br>
+2. Tag \<p> untuk membuat sebuah format paragraf baru dalam syntax HTML, sedangkan \<br> adalah untuk membuat baris baru.<br>
+3. Tag title untuk memberi judul pada gambar ketika kursor mengenai gambar tersebut. Sedangkan alt berfungsi untuk membuat deskripsi gambar apabila gambar tersebut tidak dapat ditampilkan.<br>
+4. Perlu diisi semua, agar dapat menampilkan ukuran gambar yang sesuai dengan keinginan user.<br>
+5. *_blank* Untuk membuka halaman pada tab baru.<br>
+    *_self* Untuk membuka halaman pada tab yang sudah terbuka.<br>
+    *_top* Untuk membuka halaman baru pada window baru.<br>
+    *_parent* Untuk membuka link pada frame satu tingkat diatas frame link tersebut berada.<br>
+<br>
+
+**Terima kasih..*
