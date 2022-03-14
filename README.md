@@ -84,3 +84,28 @@ Setelah membuat paragraf selanjutnya saya akan mengatur atau merubah pertaan unt
 
 *Hasil setelah merubah perataan :*<br>
 ![gambar ketiga](image/rubahratapargraf.PNG) <br>
+
+**2. Menambahkan judul / Heading**
+<br>
+
+*Berikut source code :*<br>
+```
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tag HTML Dasar</title>
+    </head>
+<body>
+    <h1>Belajar Dasar HTML</h1>
+    <p align="center">Kami sedang belajar HTML dasar, pada matakuliah Pemrograman Web di Prodi 
+    Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat
+    adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.</p>
+
+    <h2>Paragraf pada HTML</h2>
+    <p align="center">Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling
+    mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan
+    tag dasar html.</p>
+</body>
+</html>
+```
+*Berikut hasil source code setelah menambahkan heading :*<br>
