@@ -6,7 +6,7 @@
 
 **Kelas : TI.20.B.1**
 
-Langkah pertama untuk memnuhi tugas ini adalah membuat file baru dengan nama : lab1_tag_dasar
+Langkah pertama untuk memenuhi tugas ini adalah membuat file baru dengan nama : lab1_tag_dasar
 ```
 <!DOCTYPE html>
 <html>
@@ -165,3 +165,36 @@ Setelah membuat paragraf selanjutnya saya akan mengatur atau merubah pertaan unt
 
 *Berikut hasil source code setelah menambahkan gambar :*<br>
 ![gambar keenam](image/tambahgambar.PNG) <br>
+
+**5. Menambahkan hyperlink**
+<br>
+
+*Berikut source code :*<br>
+```
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tag HTML Dasar</title>
+    </head>
+<body>
+    <nav>
+        <a href="lab1_tag_dasar.html">Dasar HTML</a>
+        <a href="lab1_halaman2.html">Halaman 2</a>
+        <a href="http://www.google.com">Halaman Web Eksternal Google</a>
+        </nav>
+    <hr>
+    
+    <h1>Belajar Dasar HTML</h1>
+        <p align="justify">Kami sedang belajar <font style="background-color: yellow;">HTML dasar</font>, pada matakuliah <b>Pemrograman Web</b> di Prodi <i>Teknik Informatika</i> <u>Universitas Pelita Bangsa</u>. Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.</p>
+    <hr>
+
+    <h2>Paragraf pada HTML</h2>
+        <p align="left">Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling mendukung sehingga menjadi <b>satu kesatuan.</b> <font style="background-color: aqua;">Paragraf dibuat dengan menggunakan tag dasar html.</font></p>
+
+    <h3>Menambahkan Gambar</h3>
+    <img src="image/Logo Universitas Pelita Bangsa.png" width="170" height="160px" title="Pelita Bangsa University Logo">
+    </body>
+</html>
+```
+*Berikut hasil source code setelah menambahkan link :*<br>
+![gambar ketujuh](image/tambahhyperlink.PNG) <br>
