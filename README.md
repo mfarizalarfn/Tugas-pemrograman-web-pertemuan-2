@@ -165,6 +165,7 @@ Setelah membuat paragraf selanjutnya saya akan mengatur atau merubah pertaan unt
 
 *Berikut hasil source code setelah menambahkan gambar :*<br>
 ![gambar keenam](image/tambahgambar.PNG) <br>
+<br>
 
 **5. Menambahkan hyperlink**
 <br>
@@ -177,13 +178,13 @@ Setelah membuat paragraf selanjutnya saya akan mengatur atau merubah pertaan unt
         <title>Tag HTML Dasar</title>
     </head>
 <body>
-    <nav>
+    <div align="center">
         <a href="lab1_tag_dasar.html">Dasar HTML</a>
         <a href="lab1_halaman2.html">Halaman 2</a>
         <a href="http://www.google.com">Halaman Web Eksternal Google</a>
-        </nav>
+    </div>
     <hr>
-    
+
     <h1>Belajar Dasar HTML</h1>
         <p align="justify">Kami sedang belajar <font style="background-color: yellow;">HTML dasar</font>, pada matakuliah <b>Pemrograman Web</b> di Prodi <i>Teknik Informatika</i> <u>Universitas Pelita Bangsa</u>. Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.</p>
     <hr>
@@ -196,5 +197,19 @@ Setelah membuat paragraf selanjutnya saya akan mengatur atau merubah pertaan unt
     </body>
 </html>
 ```
+<br>
+
 *Berikut hasil source code setelah menambahkan link :*<br>
 ![gambar ketujuh](image/tambahhyperlink.PNG) <br>
+<br>
+<br>
+
+**Jawab pertanyaan berikut :**<br>
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
+error ketika terjadi kesalahan penulisan tag?<br>
+2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!<br>
+3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!<br>
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar
+proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!<br>
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,
+_parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?<br>
