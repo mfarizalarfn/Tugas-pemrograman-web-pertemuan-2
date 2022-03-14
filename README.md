@@ -223,4 +223,4 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?<br>
     *_parent* Untuk membuka link pada frame satu tingkat diatas frame link tersebut berada.<br>
 <br>
 
-**Terima kasih..*
+*Terima kasih..*
